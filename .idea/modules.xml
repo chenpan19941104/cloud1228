@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/cloud1228.iml" filepath="$PROJECT_DIR$/.idea/cloud1228.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_api_commons/cloud_api_commons.iml" filepath="$PROJECT_DIR$/cloud_api_commons/cloud_api_commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_consumer_order81/cloud_consumer_order81.iml" filepath="$PROJECT_DIR$/cloud_consumer_order81/cloud_consumer_order81.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_provider_payment8001/cloud_provider_payment8001.iml" filepath="$PROJECT_DIR$/cloud_provider_payment8001/cloud_provider_payment8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_provider_payment8002/cloud_provider_payment8002.iml" filepath="$PROJECT_DIR$/cloud_provider_payment8002/cloud_provider_payment8002.iml" />
+    </modules>
+  </component>
+</project>
