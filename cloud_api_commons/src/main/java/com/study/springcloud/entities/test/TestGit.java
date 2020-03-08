@@ -7,5 +7,6 @@ package com.study.springcloud.entities.test;
 public class TestGit {
     public static void main(String[] args) {
         System.out.println("张三第一天上班");
+        System.out.println("张三coding..");
     }
 }
