@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="854e8010-5b33-4760-9710-386d9bb28032" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="854e8010-5b33-4760-9710-386d9bb28032" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/cloud_provider_payment8001/target/" />
@@ -29,7 +27,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cloud_provider_payment8001/src/main/java/com/study/springcloud/MainApp8001.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
+            <state relative-caret-position="275">
               <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -41,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13275">
-              <caret line="531" column="12" selection-start-line="531" selection-start-column="12" selection-end-line="531" selection-end-column="12" />
+            <state relative-caret-position="10125">
+              <caret line="405" column="12" selection-start-line="405" selection-start-column="12" selection-end-line="405" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -165,37 +163,37 @@
             <path>
               <item name="cloud1228" type="b2602c69:ProjectViewProjectNode" />
               <item name="cloud1228" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud_provider_payment8001" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud_api_commons" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cloud1228" type="b2602c69:ProjectViewProjectNode" />
               <item name="cloud1228" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud_provider_payment8001" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud_api_commons" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cloud1228" type="b2602c69:ProjectViewProjectNode" />
               <item name="cloud1228" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud_provider_payment8001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cloud1228" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cloud1228" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud_provider_payment8001" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud_api_commons" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cloud1228" type="b2602c69:ProjectViewProjectNode" />
               <item name="cloud1228" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud_provider_payment8001" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud_api_commons" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud1228" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud1228" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud_api_commons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="entities" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -328,11 +326,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15102000" />
+    <option name="totallyTimeSpent" value="15114000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49722221" visible="true" weight="0.33144704" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -358,7 +355,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="bottom" id="Version Control" order="15" weight="0.3283859" />
-      <window_info anchor="bottom" id="Run Dashboard" order="16" weight="0.25185186" />
+      <window_info anchor="bottom" id="Run Dashboard" order="16" visible="true" weight="0.25185186" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -409,6 +406,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="。。。" />
+    <option name="LAST_COMMIT_MESSAGE" value="。。。" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cloud1228.iml">
@@ -594,20 +595,8 @@
     <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/test/java/com/cloud/test/TestApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/main/java/com/cloud/test/TestApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/test/java/com/cloud/test/TestApplicationTests.java" />
+    <entry file="file://$PROJECT_DIR$/test/src/main/java/com/cloud/test/TestApplication.java" />
     <entry file="file://$PROJECT_DIR$/cloud_consumer_order81/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -624,8 +613,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13275">
-          <caret line="531" column="12" selection-start-line="531" selection-start-column="12" selection-end-line="531" selection-end-column="12" />
+        <state relative-caret-position="10125">
+          <caret line="405" column="12" selection-start-line="405" selection-start-column="12" selection-end-line="405" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -636,16 +625,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/main/java/com/cloud/test/service/TestGit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/main/java/com/cloud/test/service/TestGit.java" />
     <entry file="file://$PROJECT_DIR$/cloud_provider_payment8001/src/main/java/com/study/springcloud/MainApp8001.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
+        <state relative-caret-position="275">
           <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
